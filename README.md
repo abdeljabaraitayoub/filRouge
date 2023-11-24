@@ -1,15 +1,20 @@
 
 # Cahier des charges pour le projet de site web de gestion d'école
 
+
 **1. Introduction**
 
-**1.1 Objectif du projet**
+**1.1 Problématique**
 
 Le projet a pour objectif de concevoir et développer un site web de gestion d'école visant à simplifier les processus administratifs, faciliter l'inscription des étudiants, gérer les cours de manière efficace, permettre un suivi précis des résultats académiques, ainsi que gérer les absences et retards.
 
-**1.2 Portée du projet**
+**1.2 Objectif du projet**
 
-La portée du projet englobe les fonctionnalités fondamentales, y compris l'inscription des étudiants, la gestion des cours, l'enregistrement des résultats, la consultation des informations personnelles, la gestion des absences et retards des étudiants.
+Le projet a pour objectif de concevoir et développer un site web de gestion d'école visant à simplifier les processus administratifs, faciliter l'inscription des étudiants, gérer les cours de manière efficace, permettre un suivi précis des résultats académiques, ainsi que gérer les absences et retards.
+
+**1.3Portée du projet**
+
+La portée du projet englobe les fonctionnalités fondamentales, y compris l'inscription des étudiants, la gestion des cours, l'enregistrement des résultats, la consultation des informations personnelles, la gestion des absences et retards des étudiants .
 
 **2. Fonctionnalités du site web**
 
